@@ -7,7 +7,7 @@ scw init
 ```
 然后
 ``` bash
-wget https://github.com/ours1505/scaleway-auto-start/blob/main/scw.sh
+wget https://cdn.jsdelivr.net/gh/ours1505/scaleway-auto-start/scw.sh
 chmod 777 scw.sh
 scw instance server list
 vi scw.sh
